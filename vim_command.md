@@ -19,12 +19,12 @@
 1. p ペースト
 1. r カーソル下の文字を置き換える
 1. c 変更する
-1. Ctrl + g
+1. Ctrl + g ファイル内での位置とファイルの状態を表示
 1. gg 最初の行に移動する
 1. G 一番下の行に移動する
 1. / 検索
 1. % 指定した文字の場所に移動
-1. :s/old/new/g
+1. :s/old/new/g 現在行の全ての old を new に置換する
 
 ### vim insert/append mode command list
 
